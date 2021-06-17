@@ -1,0 +1,7 @@
+name: OpticStudio_StandaloneExample
+
+dependencies:
+    - matplotlib=3.4.2
+    - numpy=1.20.3
+    - python=3.8.10
+    - pythonnet=2.5.2
