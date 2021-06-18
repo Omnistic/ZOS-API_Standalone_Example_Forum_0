@@ -15,3 +15,6 @@ This repository contains my answer to a post in the [Zemax Community Forum](http
 
 ---
 My answer consists in the ZOS-API standalone Python script: **standalone_example_for_jose.py**, which runs on the Double Gauss sample file (installed by default). It requires the macro: **Standalone_text_example.ZPL** to run properly. I didn't quite understand 4. but I'll ask for more details. The **OpticStudio_StandaloneExample.yaml** file should be the Python environment required for this application, but I haven't tested it. The code has a reference to this [GIST](https://gist.github.com/Omnistic/cfff35796e7cf9cbbda9b1de90d104e2) in the comment, which illustrates how to use POPD to retrive text information from a POP analysis window.
+
+### Keywords
+ZOS-API; Python; Standalone; POP; ZPL
